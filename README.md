@@ -1,4 +1,4 @@
-<h3 align="center">‹/›Hi there 👋 Fancy seeing you here!‹/›</h3>
+<h3 align="center">‹/›Hi there <a href="https://thediaf.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Fancy seeing you here!‹/›</h3>
 
 <a href="https://app.daily.dev/thediaf"><img src="https://api.daily.dev/devcards/7c4f783248a54d8ca4990f5c0e587824.png?r=m04" width="250px" align="right" alt="Diafra Soumare's Dev Card"/></a>
 
