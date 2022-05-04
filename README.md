@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - I’m interested in Web Development & Mobile Development.
-- I’m currently learning React js & React Native
+- I’m currently learning TypeScript & React Native
 - I'm a tech enthusiast & I love solving problems. 
 - I'm always open to collaborating on projects and innovative/disruptive ideas.
 
