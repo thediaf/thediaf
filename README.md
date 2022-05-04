@@ -13,6 +13,13 @@
 
 &nbsp;&nbsp;
 
+## 🔗 Connect with me
+<p align="center">
+<a href="https://twitter.com/diafra_soumare" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/twitter.svg" alt="thediaf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diafra-soumar%C3%A9-a53b8518a/" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="thediaf" height="30" width="40" /></a>
+<a href="https://thediaf.github.io/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/web-links/512/41-1024.png" alt="thedaf" height="30" width="40" /></a>
+<a href="https://instagram.com/thediaff" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="thediaf" height="30" width="40" /></a>
+
 ## 🚀 DEV STACKS 
 
 
